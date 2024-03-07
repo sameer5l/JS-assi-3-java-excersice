@@ -256,3 +256,96 @@
         // }
 
 
+
+ // Chapter 12
+
+
+        //Q1
+
+        // var a = 1;
+
+
+        //Q2
+
+        // var Val1 = +prompt("Enter 1st Value (In Numbers)")
+        // var Val2 = +prompt("Enter 2nd Value (In Numbers)")
+
+        // if(Val1 > Val2)
+        // {
+        //     alert(Val1+" is Greater than "+Val2);
+        // }
+        // else if(Val1 < Val2)
+        // {
+        //     alert(Val2+" is Greater than "+Val1);
+        // }
+        // else if(Val1 === Val2)
+        // {
+        //     alert("Entered both values are equal.");
+        // }
+        // else
+        // {
+        //     alert("Invalid Value.")
+        // }
+
+        //3
+
+        // var Val1 = +prompt("Enter a value (In Numbers)")
+
+        // if(Val1 > 0)
+        // {
+        //     alert("Entered value is positive");
+        // }
+        // else if(Val1 < 0)
+        // {
+        //     alert("Entered value is negative");
+        // }
+        // else if(Val1 === 0)
+        // {
+        //     alert("Entered value is Zero.");
+        // }
+        // else
+        // {
+        //     alert("Invalid Value.")
+        // }
+
+        //4
+
+        // var Val1 = prompt("Enter a vowel")
+        // var vowels = ['a','A','e','E','i','I','o','O','u','U'];
+
+        // if(isNaN(Val1))
+        // {
+        //     if(vowels.includes(Val1))
+        //     {
+        //         alert("Entered value is a vowel")
+        //     }
+        //     else
+        //     {
+        //         alert("Entered value is not a vowel")
+        //     }
+        // }
+        // else
+        // {
+        //     alert("Entered Value is a Number");
+        // }
+
+        //5
+
+        // var Pass = "Password123";
+
+        // var inputPass = prompt("Please enter your password:");
+
+        // if (!inputPass) 
+        // {
+        //     alert("Please reload and enter your password");
+        // }
+        // else if (inputPass === Pass)
+        // {
+        //     alert("Correct! The password you entered matches the original password");
+        // }
+        // else
+        // {
+        //     alert("Incorrect password");
+        // }
+
+
