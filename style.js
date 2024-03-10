@@ -1,19 +1,18 @@
-        // Chapter 9-11
-
-
-        //1
+// USER INPUT & CONDITIONAL STATEMENT
+// Chapter 9-11
+        //Question 1
 
         // var City = prompt("Enter City Name");
         // if(City==="Karachi")
         // {
-        //     alert("Welcome to the City of Lights");
+        //     alert("Welcome to the City of Kings");
         // }
         // else
         // {
         //     alert("Welcome to "+City)
         // }
 
-        //2
+        //Question 2
 
         // var Gender = prompt("Enter Gender","Gender")
 
@@ -30,7 +29,7 @@
         //     alert("Good Morning.")
         // }
 
-        //3
+        //Queston 3
 
         // var SignalColour = prompt("Enter Signal Colour","Signal Colour")
 
@@ -52,7 +51,7 @@
         // }
 
 
-        //4
+        //Queston 4
 
         // var currFuel = prompt("Enter Remaining Fuel in your car","In Litres")
 
@@ -69,7 +68,7 @@
         //     alert("Invalid Entry")
         // }
 
-        //5
+        //Queston 5
 
         // var a = 4;
         // if(++a === 5)
@@ -116,47 +115,12 @@
         // alert("The cost equals");
 
 
-        //6
-
-        // var EngMarks = +prompt("Marks in English?"),
-        // SciMarks = +prompt("Marks in Science?"),
-        // MathMarks = +prompt("Marks in Math?"),
-        // TotalMarks = +prompt("Total Marks"),
-        // Percentage=((EngMarks+SciMarks+MathMarks)/TotalMarks)*100,
-        // Grade,Remarks;
-
-        // if(Percentage >= 80)
-        // {
-        //     Grade="A+";
-        //     Remarks="Excellent";
-        // }
-        // else if(Percentage >= 70)
-        // {
-        //     Grade="A";
-        //     Remarks="Good";
-        // }
-        // else if(Percentage >= 60)
-        // {
-        //     Grade="B";
-        //     Remarks="You need to Improve";
-        // }
-        // else if(Percentage < 60)
-        // {
-        //     Grade="Fail";
-        //     Remarks="Sorry";
-        // }
-        // else
-        // {
-        //     Grade="Invalid";
-        //     Remarks="Invalid";
-        // }
-
         //document.write("<h1>Marks Sheet</h1></br></br>Total Marks : "+TotalMarks+"</br>Marks Obtained : "+(EngMarks+SciMarks+MathMarks)+"</br>Percentage : "+Percentage+"%</br>Grade : "+Grade+"</br>Remarks : "+Remarks);
 
         //7
 
         // var Num = 7;
-        // var inputNum = +prompt("Guess a Number Between 1-10")
+        // var inputNum = +prompt("Guess a Numbr Between 1-10")
 
         // if(Num === inputNum)
         // {
@@ -172,7 +136,7 @@
         // }
 
 
-        //8
+        //Queston 8
 
 
         // var InputNum = +prompt("Enter a Number divisible by 3")
@@ -186,7 +150,7 @@
         // }
 
 
-        //9
+        //Queston 9
 
         // var InputNum = +prompt("Enter a Number")
         // if(InputNum%2 === 0)
@@ -199,7 +163,7 @@
         // }
 
 
-        //10
+        //Queston 10
 
         // var inputTemp=+prompt("Enter Tempreture");
 
@@ -228,7 +192,7 @@
         //     alert("Invalid Tempreture")
         // }
 
-        //11
+        //Queston 11
 
         // var Val1 = +prompt("Enter 1st Number");
         // var Opt = prompt("Enter Operator");
@@ -255,17 +219,17 @@
         //     alert("Incorrect Operator")
         // }
 
-
+// IF...ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS
 
  // Chapter 12
 
 
-        //Q1
+        //Queston 1
 
         // var a = 1;
 
 
-        //Q2
+        //Queston 2
 
         // var Val1 = +prompt("Enter 1st Value (In Numbers)")
         // var Val2 = +prompt("Enter 2nd Value (In Numbers)")
@@ -287,7 +251,7 @@
         //     alert("Invalid Value.")
         // }
 
-        //3
+        //Queston 3
 
         // var Val1 = +prompt("Enter a value (In Numbers)")
 
@@ -308,7 +272,7 @@
         //     alert("Invalid Value.")
         // }
 
-        //4
+        //Queston 4
 
         // var Val1 = prompt("Enter a vowel")
         // var vowels = ['a','A','e','E','i','I','o','O','u','U'];
@@ -329,7 +293,7 @@
         //     alert("Entered Value is a Number");
         // }
 
-        //5
+        //Queston 5
 
         // var Pass = "Password123";
 
